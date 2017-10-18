@@ -1,5 +1,5 @@
 # Peer-graded Assignment: Course Project 1
-# Making Plots : plot1.png
+# Making Plots : plot2.png
 
 # Read text file
 # Note that in this dataset missing values are coded as ?
